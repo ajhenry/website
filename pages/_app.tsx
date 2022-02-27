@@ -1,9 +1,8 @@
-import type { AppProps } from "next/app";
-import "../styles/globals.css";
-
 import { NextSeo } from "next-seo";
+import type { AppProps } from "next/app";
 import Head from "next/head";
 import Script from "next/script";
+import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -24,34 +23,28 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Anurag | Frontend Developer"
-        titleTemplate="Anurag | Frontend Developer"
-        defaultTitle="Anurag | Frontend Developer"
-        description="Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!"
+        title="Andrew | Full Stack Dev"
+        titleTemplate="Andrew | Full Stack Dev"
+        defaultTitle="Andrew | Full Stack Dev"
+        description="Hey! I'm Andrew, A Full Stack Developer!"
         openGraph={{
-          url: "https://www.anurag.tech/",
-          title: "Anurag | Frontend Developer",
-          description:
-            "Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!",
+          url: "https://www.andrewh.xyz/",
+          title: "Andrew | Full Stack Developer",
+          description: "Hey! I'm Andrew, A Full Stack Developer!",
           images: [
             {
               url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
               width: 800,
               height: 420,
-              alt: "Anurag | Frontend Developer",
+              alt: "Andrew | Full Stack Developer",
             },
           ],
-        }}
-        twitter={{
-          handle: "@kr_anurag_",
-          site: "@kr_anurag_",
-          cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Frontend Developer, anurag, anuragkr, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "Full Stack Developer, andrewh, andrew, ajhenry, Web Developer, web development, web developer, app developer, contributor, open source",
           },
         ]}
       />

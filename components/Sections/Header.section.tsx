@@ -1,9 +1,9 @@
-import { FC } from "react";
-
 import Link from "next/link";
-import { VscGithubAlt } from "../Misc/Icons.collection"
-
+import { FC } from "react";
 import type { linkProps } from "../../@types/prop.types";
+import { VscGithubAlt } from "../Misc/Icons.collection";
+
+
 
 const TextLink: FC<linkProps> = ({ text, url }) => {
   return (
@@ -29,9 +29,9 @@ const Header: FC = () => {
         <TextLink text="Contact" url="#contact" />
       </p>
 
-      <Link href="https://github.com/kr-anurag/portfolio" passHref>
+      <Link href="https://github.com/ajhenry" passHref>
         <a
-          className="float-right mr-2 sm:mr-0 sm:float-none rounded-lg border-2 border-zinc-900 bg-zinc-800 p-2 text-2xl text-white hover:border-white"
+          className="float-right p-2 mr-2 text-2xl text-white border-2 rounded-lg sm:mr-0 sm:float-none border-zinc-900 bg-zinc-800 hover:border-white"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="github-repo"
