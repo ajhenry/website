@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/ajhenry/website/compare/v0.3.0...v0.4.0) (2022-03-08)
+
+
+### Features
+
+* Update card url ([bf30a1d](https://github.com/ajhenry/website/commit/bf30a1d0909157d9cc6a39476af9bd19c9657c3f))
+
+
+
 # [0.3.0](https://github.com/ajhenry/website/compare/v0.2.0...v0.3.0) (2022-03-08)
 
 
