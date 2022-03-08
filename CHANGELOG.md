@@ -1,4 +1,13 @@
-# 0.2.0 (2022-02-27)
+# [0.3.0](https://github.com/ajhenry/website/compare/v0.2.0...v0.3.0) (2022-03-08)
+
+
+### Features
+
+* Add card img and blog link ([35c1706](https://github.com/ajhenry/website/commit/35c170649c30cee678ca583a51fa5678c932e019))
+
+
+
+# [0.2.0](https://github.com/ajhenry/website/compare/031817d1002fbd4ee353ad8c24e9969f5301757f...v0.2.0) (2022-02-27)
 
 
 ### Features
