@@ -13,7 +13,7 @@ const Contact = () => {
         <Icon icon={<AiOutlineGithub />} url="https://github.com/ajhenry" />
 
        
-        <Icon icon={<MdEmail />} url="mailto:andrew@andrewh.xyz" />
+        <Icon icon={<MdEmail />} url="mailto:andrew@ajhenry.dev" />
       </div>
     </div>
   );

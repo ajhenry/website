@@ -6,7 +6,7 @@
 
 ![demo](./public/assests/docs/demo.png)
 
-✨ [Live Demo](https://andrewh.xyz)
+✨ [Live Demo](https://ajhenry.dev)
 
 ### Using the template
 

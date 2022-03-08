@@ -23,20 +23,20 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Andrew | Full Stack Dev"
-        titleTemplate="Andrew | Full Stack Dev"
-        defaultTitle="Andrew | Full Stack Dev"
+        title="Andrew — Full Stack Dev"
+        titleTemplate="Andrew — Full Stack Dev"
+        defaultTitle="Andrew — Full Stack Dev"
         description="Hey! I'm Andrew, A Full Stack Developer!"
         openGraph={{
-          url: "https://www.andrewh.xyz/",
-          title: "Andrew | Full Stack Developer",
+          url: "https://www.ajhenry.dev/",
+          title: "Andrew — Full Stack Developer",
           description: "Hey! I'm Andrew, A Full Stack Developer!",
           images: [
             {
               url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
               width: 800,
               height: 420,
-              alt: "Andrew | Full Stack Developer",
+              alt: "Andrew — Full Stack Developer",
             },
           ],
         }}

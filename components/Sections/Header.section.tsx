@@ -3,8 +3,6 @@ import { FC } from "react";
 import type { linkProps } from "../../@types/prop.types";
 import { VscGithubAlt } from "../Misc/Icons.collection";
 
-
-
 const TextLink: FC<linkProps> = ({ text, url }) => {
   return (
     <a
@@ -17,10 +15,9 @@ const TextLink: FC<linkProps> = ({ text, url }) => {
 };
 
 const Header: FC = () => {
-
   return (
     <header
-      className={`sm:flex sm:flex-row sm:items-center sm:justify-between py-8 font-jost`}
+      className={`py-8 font-jost sm:flex sm:flex-row sm:items-center sm:justify-between`}
     >
       <p className="hidden sm:flex sm:flex-row sm:gap-x-4">
         <TextLink text="Home" url="#" />
@@ -29,16 +26,19 @@ const Header: FC = () => {
         <TextLink text="Contact" url="#contact" />
       </p>
 
-      <Link href="https://github.com/ajhenry" passHref>
-        <a
-          className="float-right p-2 mr-2 text-2xl text-white border-2 rounded-lg sm:mr-0 sm:float-none border-zinc-900 bg-zinc-800 hover:border-white"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="github-repo"
-        >
-          <VscGithubAlt />
-        </a>
-      </Link>
+      <div className="flex items-center justify-center sm:gap-x-4">
+        <TextLink text="Blog" url="https://blog.ajhenry.dev" />
+        <Link href="https://github.com/ajhenry" passHref>
+          <a
+            className="float-right p-2 mr-2 text-2xl text-white border-2 rounded-lg border-zinc-900 bg-zinc-800 hover:border-white sm:float-none sm:mr-0"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="github-repo"
+          >
+            <VscGithubAlt />
+          </a>
+        </Link>
+      </div >
     </header>
   );
 };
