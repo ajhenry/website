@@ -33,7 +33,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           description: "Hey! I'm Andrew, A Full Stack Developer!",
           images: [
             {
-              url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
+              url: "https://raw.githubusercontent.com/ajhenry/website/main/public/assests/card.png",
               width: 800,
               height: 420,
               alt: "Andrew — Full Stack Developer",
