@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/ajhenry/website/compare/v0.4.0...v0.5.0) (2022-03-09)
+
+
+### Features
+
+* Update card ([a9e93d6](https://github.com/ajhenry/website/commit/a9e93d656feb2dabe991e7baf4a4354d410c9a76))
+
+
+
 # [0.4.0](https://github.com/ajhenry/website/compare/v0.3.0...v0.4.0) (2022-03-08)
 
 
