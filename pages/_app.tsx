@@ -27,6 +27,11 @@ function MyApp({ Component, pageProps }: AppProps) {
         titleTemplate="Andrew — Full Stack Dev"
         defaultTitle="Andrew — Full Stack Dev"
         description="Hey! I'm Andrew, A Full Stack Developer!"
+        twitter={{
+          handle: '@ajhenrydev',
+          site: '@ajhenrydev',
+          cardType: 'summary_large_image',
+        }}
         openGraph={{
           url: "https://www.ajhenry.dev/",
           title: "Andrew — Full Stack Developer",
