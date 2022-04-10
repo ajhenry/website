@@ -5,10 +5,10 @@ const About = () => {
   return (
     <div className="flex flex-row items-center justify-between px-3 my-8 font-sen">
       <div>
-        <p className="text-3xl font-bold text-white">Andrew</p>
-        <p className="mt-1 text-lg font-medium text-gray-300">
-          Full Stack Software Engineer and Open Source enthusiast 
-        </p>
+        <h1 className="text-3xl font-bold text-white">Andrew</h1>
+        <h3 className="mt-1 text-lg font-medium text-gray-300">
+          Hey I'm ajhenry, a Full Stack Software Engineer and Open Source enthusiast 
+        </h3>
 
         <p className="mt-4 text-gray-400">
           Building modern web apps — proficient in TypeScript and Python
