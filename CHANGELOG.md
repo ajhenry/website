@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/ajhenry/website/compare/v0.5.0...v0.6.0) (2022-03-09)
+
+
+### Features
+
+* Update twitter seo ([cbcbff9](https://github.com/ajhenry/website/commit/cbcbff913b9e878b9fdc4706cb0905d7857d249e))
+
+
+
 # [0.5.0](https://github.com/ajhenry/website/compare/v0.4.0...v0.5.0) (2022-03-09)
 
 
