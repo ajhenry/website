@@ -23,25 +23,25 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Andrew — Full Stack Dev"
-        titleTemplate="Andrew — Full Stack Dev"
-        defaultTitle="Andrew — Full Stack Dev"
-        description="Hey! I'm Andrew, A Full Stack Developer!"
+        title="ajhenry — Full Stack Dev"
+        titleTemplate="ajhenry — Full Stack Dev"
+        defaultTitle="ajhenry — Full Stack Dev"
+        description="Hey! I'm ajhenry, A Full Stack Developer"
         twitter={{
           handle: '@ajhenrydev',
           site: '@ajhenrydev',
           cardType: 'summary_large_image',
         }}
         openGraph={{
-          url: "https://www.ajhenry.dev/",
-          title: "Andrew — Full Stack Developer",
-          description: "Hey! I'm Andrew, A Full Stack Developer!",
+          url: "https://ajhenry.dev/",
+          title: "ajhenry — Full Stack Developer",
+          description: "Hey! I'm ajhenry, A Full Stack Developer!",
           images: [
             {
               url: "https://raw.githubusercontent.com/ajhenry/website/main/public/assests/card.png",
               width: 800,
               height: 420,
-              alt: "Andrew — Full Stack Developer",
+              alt: "ajhenry — Full Stack Developer",
             },
           ],
         }}
@@ -49,7 +49,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           {
             property: "keywords",
             content:
-              "Full Stack Developer, andrewh, andrew, ajhenry, Web Developer, web development, web developer, app developer, contributor, open source",
+              "Full Stack Developer, andrewh, andrew, ajhenry, Web Developer, web development, web developer, app developer, contributor, open source, open source program office",
           },
         ]}
       />
