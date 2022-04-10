@@ -1,3 +1,12 @@
+## [0.6.1](https://github.com/ajhenry/website/compare/v0.6.0...v0.6.1) (2022-04-10)
+
+
+### Bug Fixes
+
+* update seo ([12d8966](https://github.com/ajhenry/website/commit/12d89662cb900debec732d52f56db105824c53d9))
+
+
+
 # [0.6.0](https://github.com/ajhenry/website/compare/v0.5.0...v0.6.0) (2022-03-09)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Add card img and blog link ([35c1706](https://github.com/ajhenry/website/commit/35c170649c30cee678ca583a51fa5678c932e019))
-
-
-
-# [0.2.0](https://github.com/ajhenry/website/compare/031817d1002fbd4ee353ad8c24e9969f5301757f...v0.2.0) (2022-02-27)
-
-
-### Features
-
-* publish website ([031817d](https://github.com/ajhenry/website/commit/031817d1002fbd4ee353ad8c24e9969f5301757f))
 
 
 
