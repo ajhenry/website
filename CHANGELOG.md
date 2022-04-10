@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/ajhenry/website/compare/v0.6.1...v0.7.0) (2022-04-10)
+
+
+### Features
+
+* Update title blocks ([4075be7](https://github.com/ajhenry/website/commit/4075be7f3031db6d65dfb14e8a5398d35e8b5964))
+
+
+
 ## [0.6.1](https://github.com/ajhenry/website/compare/v0.6.0...v0.6.1) (2022-04-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update card url ([bf30a1d](https://github.com/ajhenry/website/commit/bf30a1d0909157d9cc6a39476af9bd19c9657c3f))
-
-
-
-# [0.3.0](https://github.com/ajhenry/website/compare/v0.2.0...v0.3.0) (2022-03-08)
-
-
-### Features
-
-* Add card img and blog link ([35c1706](https://github.com/ajhenry/website/commit/35c170649c30cee678ca583a51fa5678c932e019))
 
 
 
