@@ -1,3 +1,12 @@
+## [0.7.1](https://github.com/ajhenry/website/compare/v0.7.0...v0.7.1) (2022-04-10)
+
+
+### Bug Fixes
+
+* apostro ([30e18c9](https://github.com/ajhenry/website/commit/30e18c9f387af858c3251959bf8fc3b040380980))
+
+
+
 # [0.7.0](https://github.com/ajhenry/website/compare/v0.6.1...v0.7.0) (2022-04-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update card ([a9e93d6](https://github.com/ajhenry/website/commit/a9e93d656feb2dabe991e7baf4a4354d410c9a76))
-
-
-
-# [0.4.0](https://github.com/ajhenry/website/compare/v0.3.0...v0.4.0) (2022-03-08)
-
-
-### Features
-
-* Update card url ([bf30a1d](https://github.com/ajhenry/website/commit/bf30a1d0909157d9cc6a39476af9bd19c9657c3f))
 
 
 
